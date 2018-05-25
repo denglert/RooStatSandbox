@@ -1,0 +1,3 @@
+[submodule "submodules/roofit-python-wrapper"]
+	path = submodules/roofit-python-wrapper
+	url = git@github.com:denglert/roofit-python-wrapper.git
